@@ -12,7 +12,7 @@ Installation
 ------------
 
 ``` r
-devtools::install_github("tyronehunt/foofactors")
+devtools::install_github("tyronehunt/R-packages-tutorial")
 ```
 
 Example
